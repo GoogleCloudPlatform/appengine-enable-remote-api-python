@@ -1,7 +1,7 @@
 # Sample datastore_admin application.
 # You can use the -A flag for appcfg to upload this to your application.
 # For more information, see 
-# http://code.google.com/appengine/docs/adminconsole/
+# http://developers.google.com/appengine/docs/adminconsole/
 
 
 application: your-appid-here
