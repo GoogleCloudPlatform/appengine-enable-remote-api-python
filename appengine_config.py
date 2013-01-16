@@ -34,4 +34,4 @@ google/appengine/ext/appstats/sample_appenigne_config.py instead.
 # value.  'HTTP_X_APPENGINE_INBOUND_APPID', ['trusted source appid here']
 #
 remoteapi_CUSTOM_ENVIRONMENT_AUTHENTICATION = (
-    'HTTP_X_APPENGINE_INBOUND_APPID', ['tictactoe-java-auth'])
+    'HTTP_X_APPENGINE_INBOUND_APPID', ['trusted source appid here'])
