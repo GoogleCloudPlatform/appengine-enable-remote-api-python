@@ -18,12 +18,12 @@
 """Sample remote_api appengine_config for copying datastore across apps.
 
 For more information, see
-http://code.google.com/appengine/docs/adminconsole/
+http://developers.google.com/appengine/docs/adminconsole/
 
 Note that this appengine_config.py file is the same one that you would
 use for appstats; if you are bundling this with your existing app you may
 wish to copy the version from
-google/appengine/ext/appstats/sample_appenigne_config.py instead.
+google/appengine/ext/appstats/sample_appengine_config.py instead.
 """
 
 #########################################
